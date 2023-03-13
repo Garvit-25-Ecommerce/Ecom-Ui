@@ -1,0 +1,85 @@
+body{
+    background-color: aliceblue;
+}
+.catalogueCard{
+    border: 1px solid #334756;
+    width: 350px;
+    height: auto;
+    margin:20px auto;
+}
+
+
+
+.cardImage{
+    margin: 0 auto;
+    width: 275px;
+    height: 275px;
+    object-fit: contain;
+}
+
+.cardImageHover:hover{
+    scale: 1.1;
+}
+.featuredProductsContainer:hover{
+    scale: 1.0;
+}
+
+
+.cart-button{
+    background-color: #2C394B;
+    border-color: #334756;
+}
+
+
+.price{
+    margin: 0;
+    font-weight: bold;
+}
+
+.cardFooter{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.catalogue-row{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.cardTitle{
+    padding-left: 16px;
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+.product-details-anchor{
+    font-weight: bolder;
+    text-decoration: none;
+    
+}
+
+.catalogueContainer{
+    background-color: aliceblue;
+    margin: 3% 0;
+}
+
+.shopHeading{
+    margin-left :8.5%;
+
+}
+
+.uhOhContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    padding: 5%;
+    border-radius: 12px;
+    margin: 1.75% 5%;
+}
+
+.uhOhImage{
+    width: 35%;
+}

@@ -1,0 +1,23 @@
+.searchResultsContainer{
+    background-color: white;
+    padding: 3%;
+    margin: 3% auto;
+    border-radius: 12px;
+    width: 90%;
+
+}
+
+.searchImage{
+    width: 35%;
+}
+
+.notFoundContainer{
+    background-color: white;
+    padding: 3%;
+    border-radius: 12px;
+    width: 100%;
+}
+
+.notFoundImage{
+    width: 30%;
+}

@@ -1,0 +1,49 @@
+.dataTableContainer{
+    width: 90%;
+    border-radius: 12px;
+    background-color: white;
+    padding: 2%;
+    margin: 3% auto;
+    border: 1px solid #334756;
+}
+
+.adminDeleteButton{
+    background-color: red;
+    border: none;
+    margin: 0;
+    padding: 2%;
+    
+}
+
+.adminViewButton{
+    background-color: orange;
+    border: none;
+    margin: 0;
+    padding: 2%;
+    
+}
+
+.nav-link::after{
+    color: white;
+    
+}
+.nav-link{
+    transition: none;
+}
+
+.nav-item::after{
+    color: white;
+}
+
+.nav-link:focus{
+    color: white;
+}
+
+.deleteProductButton{
+    background-color: red;
+    border: none;
+}
+
+.deleteProductTitle{
+    color: red;
+}

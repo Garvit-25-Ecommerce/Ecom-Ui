@@ -1,0 +1,62 @@
+
+.gridContainer{
+    margin: 5% auto;
+    width: 90%;
+    background-color: white;
+    border-radius: 12px;
+    border: 1px solid #334756;
+}
+
+.gridContainer button{
+    background-color: #2C394B;
+    border-color: #082032;
+    --bs-btn-focus-box-shadow: 0 0 0 0.25rem rgba(8,32,50.5);
+}
+
+.detailsContainer{
+    background-color: white;
+    height: max-content;
+    border-radius: 12px;
+    padding-top: 5%;
+}
+
+.detailsContainer p{
+    padding: 0;
+}
+
+.imageContainer{
+    background-color: white;
+    border-radius: 12px;
+}
+
+.displayImage{
+    width: 85%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.displayImage:hover{
+    transform: scale(1.1);
+}
+
+button a {
+    color: white;
+}
+
+button a:hover{
+    color: white;
+}
+
+.reviewsContainer{
+    overflow: auto;
+    height: 300px;
+}
+
+.productDisplayImageContainer{
+    margin: 0 auto;
+    padding: 7.5% 0;
+}
+
+.noReviewImage{
+    width: 30%;
+}

@@ -1,0 +1,114 @@
+
+.cartSection{
+    width: 100%;
+    height: 80%;
+    background-color: lightblue;
+}
+
+.cartItemImage{
+    width: 75%;
+    height: auto;
+    margin: 12px auto;
+    
+}
+
+.deleteButton{
+    color: rgb(218, 60, 60);
+    border: none;
+    background-color: white;
+
+}
+
+.editButton{
+    border: none;
+    color: #3B71CA;
+    background-color: white;
+}
+
+.cartItemLine{
+    display: block;
+    unicode-bidi: isolate;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    border-style: inset;
+    border-width: 1px;
+    width: 95%;
+}
+
+.cartItemContainer{
+    background-color: white;
+    margin: 1.6% auto;
+    padding: 24px 64px;
+}
+
+.summaryContainer{
+    background-color:#334756 ;
+    margin: 5% auto;
+    padding: 24px;
+    color: white;
+}
+
+.outerContainer{
+    background-color: white;
+    width: 90%;
+    margin: 5% auto;
+    border-radius: 12px;
+}
+
+.outerContainer .col-9,.col-3{
+    padding: 0;
+}
+
+.outerContainer .col-3{
+    background-color: #334756;
+    border-radius: 12px;
+}
+
+.codeInput{
+    width: 100%;
+    font-size: medium;
+    background-color: aliceblue;
+    
+}
+
+.summaryContainer .checkoutButton{
+    width: 90%;
+    margin-top: 3%;
+    background-color: #FF4C29;
+    border: none;
+    
+}
+
+.applyButton{
+   margin-bottom: 2%;
+   margin-left :5%;
+   padding-top: 8%;
+   padding-bottom: 8%;
+   background-color: #FF4C29;
+   border: none;
+    
+}
+
+.summaryContainer div{
+    padding-left: 5%;
+}
+
+.emptyCart{
+    background-color: rgb(218, 60, 60);
+    border: none;
+}
+
+#checkoutModalLabel{
+    color: #3B71CA;
+}
+
+.emptyCartImage{
+    width: 30%;
+}
+
+
+
+

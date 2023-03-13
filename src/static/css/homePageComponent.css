@@ -1,0 +1,29 @@
+.homePageContainer{
+    background-color: white;
+    padding: 2% 8%;
+    
+}
+
+.homePageContainer a{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.featuredProductsContainer{
+    padding: 2% 0;
+}
+
+.featuredProductsContainer button{
+    background-color: #2C394B;
+    border-color: #334756;
+}
+
+.siteDescriptionContainer{
+    background-color: white;
+    padding: 2% 8%;
+}
+
+.errorFeature{
+    background-color: white;
+}

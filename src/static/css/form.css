@@ -1,0 +1,45 @@
+
+.formContainer{
+    background: white;
+    margin: 0 auto;
+    width: 100%;
+    border-radius: 12px;
+    padding: 5%;
+}
+
+.formCard{
+    border: none;
+}
+
+.signin-btn{
+    margin: 0 12rem;
+    padding: 4px 16px;
+}
+
+.inputGroup{
+    position: relative;
+
+}
+
+.emailIcon{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0.5rem;
+}
+
+.inputGroup input, .inputGroup select{
+    padding-left: 40px;
+}
+
+#additionalFeatures{
+    height: 200px;
+    overflow: auto;
+}
+
+#addProductForm img{
+    height: 200px;
+}
+
+
+

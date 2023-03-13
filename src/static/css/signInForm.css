@@ -1,0 +1,49 @@
+
+.signin-card{
+    width: 500px;
+    height: auto;
+    margin: 5% auto;
+    
+}
+
+.signup-card{
+    width: 500px;
+    height: auto;
+    margin: 5% auto;
+}
+
+.signin-card-body{
+    width: 500px;
+    height: auto;
+}
+
+.signin-btn{
+    margin: 0 12rem;
+    padding: 4px 16px;
+}
+
+img{
+    width: 150px;
+    margin: 10px auto;
+}
+
+p{
+    margin:0 auto;
+}
+
+.anchor-container{
+    padding: 0 9rem;
+}
+
+.signup-btn{
+    margin: 0 40%;
+    padding: 4px 16px;
+}
+.anchor-container-signup{
+    padding: 0 8.8rem;
+}
+
+.img-container{
+    margin: 8px auto;
+}
+

@@ -1,0 +1,32 @@
+.filterContainer{
+    background-color: white;
+    margin:  8% auto;
+    border-radius: 12px;
+    width: 100%;
+    border: 1px solid #334756;
+    padding: 3%;
+    
+}
+
+.categoryContainer{
+    padding: 24px 12px;
+    padding-bottom: 12px;
+}
+
+.priceRange{
+    padding: 12px 12px;
+}
+
+.sortBy{
+    padding: 12px;
+}
+
+.priceRange .form-control{
+    width: 30%;
+}
+
+.priceRange button{
+    background-color: #2C394B;
+    border-color: #334756;
+}
+

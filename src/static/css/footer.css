@@ -1,0 +1,40 @@
+.myFooter{
+    background-color: #082032;
+}
+
+.myFooter img{
+    width: 50%;
+}
+
+.button{
+    background-color: #082032;
+    border: none;
+    padding: 2px 6px;
+}
+
+.copyright{
+    background-color: #082032;
+    padding: 8px;
+}
+
+.contentContainer{
+    margin-bottom: 20px;
+}
+p{
+    margin-bottom: 5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.follow{
+    margin-left: 10px;
+}
+
+.flex-wrapper{
+    display: flex;
+    min-height:100vh;
+    flex-direction: column;
+    justify-content: space-between;
+}

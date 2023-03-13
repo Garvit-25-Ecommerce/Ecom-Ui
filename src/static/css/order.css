@@ -1,0 +1,21 @@
+.orderDetailCard{
+    border:none;
+    border-radius: 12px;
+}
+
+.orderItemContainer{
+    height:250px;
+    overflow: auto;
+}
+
+.orderPageContainer{
+    width:93%;
+    background-color: white;
+    padding: 3%;
+    border-radius: 12px;
+}
+
+.errorImage{
+    width: 35%;
+}
+
